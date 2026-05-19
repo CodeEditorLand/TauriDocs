@@ -84,6 +84,15 @@
     "type": "ORGANIZATION"
   },
   {
+    "name": "Conductor",
+    "id": "Conductor",
+    "avatarUrl": "https://images.opencollective.com/conductor/e11ad42/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/conductor",
+    "socialLinks": {},
+    "tier": "gold",
+    "type": "INDIVIDUAL"
+  },
+  {
     "name": "PhearZero",
     "id": "PhearZero",
     "avatarUrl": "https://images.opencollective.com/phearzero/787453c/avatar/256.jpg",
@@ -100,15 +109,6 @@
     "socialLinks": {
       "website": "https://mintter.com"
     },
-    "tier": "gold",
-    "type": "INDIVIDUAL"
-  },
-  {
-    "name": "Conductor",
-    "id": "Conductor",
-    "avatarUrl": "https://images.opencollective.com/conductor/e11ad42/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/conductor",
-    "socialLinks": {},
     "tier": "gold",
     "type": "INDIVIDUAL"
   },
@@ -200,19 +200,19 @@
     "type": "ORGANIZATION"
   },
   {
-    "name": "Rick Richardson",
-    "id": "Rick Richardson",
-    "avatarUrl": "https://images.opencollective.com/rick-richardson/0bcfb2c/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/rick-richardson",
+    "name": "Eric Busch",
+    "id": "Eric Busch",
+    "avatarUrl": "https://images.opencollective.com/user-39d3e8eb/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/user-39d3e8eb",
     "socialLinks": {},
     "tier": "gold",
     "type": "INDIVIDUAL"
   },
   {
-    "name": "Eric Busch",
-    "id": "Eric Busch",
-    "avatarUrl": "https://images.opencollective.com/user-39d3e8eb/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/user-39d3e8eb",
+    "name": "Rick Richardson",
+    "id": "Rick Richardson",
+    "avatarUrl": "https://images.opencollective.com/rick-richardson/0bcfb2c/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/rick-richardson",
     "socialLinks": {},
     "tier": "gold",
     "type": "INDIVIDUAL"
@@ -281,19 +281,19 @@
     "type": "INDIVIDUAL"
   },
   {
-    "name": "James Bartlett",
-    "id": "James Bartlett",
-    "avatarUrl": "https://images.opencollective.com/james-bartlett1/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/james-bartlett1",
+    "name": "Brian DeRocher",
+    "id": "Brian DeRocher",
+    "avatarUrl": "https://images.opencollective.com/brian-derocher/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/brian-derocher",
     "socialLinks": {},
     "tier": "silver",
     "type": "INDIVIDUAL"
   },
   {
-    "name": "Brian DeRocher",
-    "id": "Brian DeRocher",
-    "avatarUrl": "https://images.opencollective.com/brian-derocher/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/brian-derocher",
+    "name": "James Bartlett",
+    "id": "James Bartlett",
+    "avatarUrl": "https://images.opencollective.com/james-bartlett1/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/james-bartlett1",
     "socialLinks": {},
     "tier": "silver",
     "type": "INDIVIDUAL"
@@ -496,18 +496,6 @@
     "type": "ORGANIZATION"
   },
   {
-    "name": "Alex Michael Berry",
-    "id": "Alex Michael Berry",
-    "avatarUrl": "https://images.opencollective.com/alex-michael-berry/68f1cc8/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/alex-michael-berry",
-    "socialLinks": {
-      "website": "https://ligature.dev",
-      "github": "https://github.com/almibe"
-    },
-    "tier": "silver",
-    "type": "INDIVIDUAL"
-  },
-  {
     "name": "Archon Systems Inc.",
     "id": "Archon Systems Inc.",
     "avatarUrl": "https://images.opencollective.com/archon-systems-inc/d9e1429/logo/256.jpg",
@@ -519,6 +507,18 @@
     },
     "tier": "silver",
     "type": "ORGANIZATION"
+  },
+  {
+    "name": "Alex Michael Berry",
+    "id": "Alex Michael Berry",
+    "avatarUrl": "https://images.opencollective.com/alex-michael-berry/68f1cc8/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/alex-michael-berry",
+    "socialLinks": {
+      "website": "https://ligature.dev",
+      "github": "https://github.com/almibe"
+    },
+    "tier": "silver",
+    "type": "INDIVIDUAL"
   },
   {
     "name": "EthicalAds",
@@ -671,6 +671,15 @@
     "type": "INDIVIDUAL"
   },
   {
+    "name": "Jan",
+    "id": "Jan",
+    "avatarUrl": "https://images.opencollective.com/jan50/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/jan50",
+    "socialLinks": {},
+    "tier": "silver",
+    "type": "INDIVIDUAL"
+  },
+  {
     "name": "Alexander Herrmann",
     "id": "Alexander Herrmann",
     "avatarUrl": "https://images.opencollective.com/darignac/avatar/256.jpg",
@@ -720,15 +729,6 @@
     "type": "INDIVIDUAL"
   },
   {
-    "name": "Jan",
-    "id": "Jan",
-    "avatarUrl": "https://images.opencollective.com/jan50/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/jan50",
-    "socialLinks": {},
-    "tier": "silver",
-    "type": "INDIVIDUAL"
-  },
-  {
     "name": "Proxyman",
     "id": "Proxyman",
     "avatarUrl": "https://images.opencollective.com/proxyman_io/8644075/logo/256.jpg",
@@ -772,18 +772,6 @@
     "type": "INDIVIDUAL"
   },
   {
-    "name": "kuma",
-    "id": "kuma",
-    "avatarUrl": "https://images.opencollective.com/kuma/340aed4/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/kuma",
-    "socialLinks": {
-      "twitter": "https://twitter.com/km_tr_",
-      "github": "https://github.com/km-tr"
-    },
-    "tier": "silver",
-    "type": "INDIVIDUAL"
-  },
-  {
     "name": "Alexander Eden",
     "id": "Alexander Eden",
     "avatarUrl": "https://images.opencollective.com/alex-eden/31765a1/avatar/256.jpg",
@@ -791,6 +779,18 @@
     "socialLinks": {
       "website": "https://github.com/alexeden",
       "github": "https://github.com/alexeden"
+    },
+    "tier": "silver",
+    "type": "INDIVIDUAL"
+  },
+  {
+    "name": "kuma",
+    "id": "kuma",
+    "avatarUrl": "https://images.opencollective.com/kuma/340aed4/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/kuma",
+    "socialLinks": {
+      "twitter": "https://twitter.com/km_tr_",
+      "github": "https://github.com/km-tr"
     },
     "tier": "silver",
     "type": "INDIVIDUAL"
@@ -927,6 +927,17 @@
     "type": "INDIVIDUAL"
   },
   {
+    "name": "Daniele Dellafiore",
+    "id": "Daniele Dellafiore",
+    "avatarUrl": "https://images.opencollective.com/daniele-dellafiore/44370c2/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/daniele-dellafiore",
+    "socialLinks": {
+      "website": "https://linktr.ee/ildella"
+    },
+    "tier": "bronze",
+    "type": "INDIVIDUAL"
+  },
+  {
     "name": "Thomas Kumlehn",
     "id": "Thomas Kumlehn",
     "avatarUrl": "https://images.opencollective.com/user-cbb10957/avatar/256.jpg",
@@ -950,17 +961,6 @@
     "avatarUrl": "https://images.opencollective.com/paco5/avatar/256.jpg",
     "profileUrl": "https://opencollective.com/paco5",
     "socialLinks": {},
-    "tier": "bronze",
-    "type": "INDIVIDUAL"
-  },
-  {
-    "name": "Daniele Dellafiore",
-    "id": "Daniele Dellafiore",
-    "avatarUrl": "https://images.opencollective.com/daniele-dellafiore/44370c2/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/daniele-dellafiore",
-    "socialLinks": {
-      "website": "https://linktr.ee/ildella"
-    },
     "tier": "bronze",
     "type": "INDIVIDUAL"
   },
@@ -1576,6 +1576,17 @@
     "type": "INDIVIDUAL"
   },
   {
+    "name": "Ставки на спорт",
+    "id": "Ставки на спорт",
+    "avatarUrl": "https://images.opencollective.com/stavki-na-sport-ua/ecee984/logo/256.jpg",
+    "profileUrl": "https://opencollective.com/stavki-na-sport-ua",
+    "socialLinks": {
+      "website": "https://betking.com.ua/sports-book/"
+    },
+    "tier": "bronze",
+    "type": "ORGANIZATION"
+  },
+  {
     "name": "Zach Sherman",
     "id": "Zach Sherman",
     "avatarUrl": "https://images.opencollective.com/zach-sherman/avatar/256.jpg",
@@ -1698,15 +1709,13 @@
     "type": "INDIVIDUAL"
   },
   {
-    "name": "Ставки на спорт",
-    "id": "Ставки на спорт",
-    "avatarUrl": "https://images.opencollective.com/stavki-na-sport-ua/ecee984/logo/256.jpg",
-    "profileUrl": "https://opencollective.com/stavki-na-sport-ua",
-    "socialLinks": {
-      "website": "https://betking.com.ua/sports-book/"
-    },
+    "name": "Scanavium21",
+    "id": "Scanavium21",
+    "avatarUrl": "https://images.opencollective.com/scanavium21/ea9bd1b/avatar/256.jpg",
+    "profileUrl": "https://opencollective.com/scanavium21",
+    "socialLinks": {},
     "tier": "bronze",
-    "type": "ORGANIZATION"
+    "type": "INDIVIDUAL"
   },
   {
     "name": "Gabriel Enicks",
@@ -2409,15 +2418,6 @@
       "twitter": "https://twitter.com/crutchcorn",
       "github": "https://github.com/crutchcorn"
     },
-    "tier": "bronze",
-    "type": "INDIVIDUAL"
-  },
-  {
-    "name": "Scanavium21",
-    "id": "Scanavium21",
-    "avatarUrl": "https://images.opencollective.com/scanavium21/ea9bd1b/avatar/256.jpg",
-    "profileUrl": "https://opencollective.com/scanavium21",
-    "socialLinks": {},
     "tier": "bronze",
     "type": "INDIVIDUAL"
   },
