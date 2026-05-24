@@ -1,0 +1,78 @@
+version: 2
+enable-beta-ecosystems: true
+
+updates:
+    - package-ecosystem: "github-actions"
+      directory: "/"
+      schedule:
+          interval: "daily"
+
+    - package-ecosystem: "npm"
+      directory: "/"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/packages/cli-generator"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/packages/compatibility-table"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/packages/config-generator"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/packages/fetch-sponsors"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/packages/js-api-generator"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/packages/releases-generator"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
