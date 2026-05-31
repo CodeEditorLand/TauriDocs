@@ -20,15 +20,15 @@ If you are looking for the old v1 docs, see [here](https://github.com/tauri-apps
 ## Partners
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://crabnebula.dev" target="_blank">
-          <img src=".github/sponsors/crabnebula.svg" alt="CrabNebula" width="283">
-        </a>
-      </td>
-    </tr>
-  </tbody>
+	<tbody>
+		<tr>
+			<td align="center" valign="middle">
+				<a href="https://crabnebula.dev" target="_blank">
+					<img src=".github/sponsors/crabnebula.svg" alt="CrabNebula" width="283" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 For the complete list of sponsors please visit our [website](https://tauri.app#sponsors) and [Open Collective](https://opencollective.com/tauri).
